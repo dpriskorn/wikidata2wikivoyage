@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # License: GPLv3+ (or later)
-# Author: So9q
+# Author: Dennis Priskorn
+
+# First find the shelters in WQDS and export them to campsites.csv, then run this script
 
 import csv
 from datetime import datetime
